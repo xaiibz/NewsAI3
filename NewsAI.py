@@ -6,6 +6,7 @@
 import streamlit as st
 import numpy as np
 import os
+import random
 import json
 from newsapi import NewsApiClient
 from sentence_transformers import SentenceTransformer
