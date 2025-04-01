@@ -1,6 +1,5 @@
 streamlit
 numpy
-json
 newsapi-python
 sentence-transformers
 scikit-learn
