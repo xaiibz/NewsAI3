@@ -1,0 +1,12 @@
+streamlit
+random
+numpy
+os
+json
+newsapi-python
+sentence-transformers
+scikit-learn
+langchain-groq
+langchain-experimental
+langchain-community
+groq
