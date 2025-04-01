@@ -1,6 +1,5 @@
 streamlit
 numpy
-os
 json
 newsapi-python
 sentence-transformers
