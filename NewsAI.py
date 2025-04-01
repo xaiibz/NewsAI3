@@ -17,6 +17,8 @@ from langchain.vectorstores import Chroma
 from langchain.embeddings import SentenceTransformerEmbeddings
 from langchain_experimental.text_splitter import SemanticChunker
 from langchain_community.tools import DuckDuckGoSearchResults
+from langchain.tools import DuckDuckGoSearchResults
+
 from groq import Groq
 
 #Initialization
