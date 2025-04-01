@@ -13,3 +13,12 @@ The **Australian News Desk** is an application that extract news articles from m
 
 ### Additional Feature
 -**AI Agent for News**: Provides an AI Agent with access to tools to gather news articles based on user request.
+
+### Simply do the following:
+streamlit run NewsAI.py
+
+All API Keys are provided.
+Requirements.txt has the list of dependencies. 
+NewsAI.py is the main file.
+
+Thankyou.
